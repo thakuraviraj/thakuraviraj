@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @thakuraviraj
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java 
-  
+- 🌱 I’m currently learning java
+- Learning Git and Github too
